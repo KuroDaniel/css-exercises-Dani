@@ -1,0 +1,21 @@
+.magot-core {
+    background-color: pink;
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+   
+}
+
+#vox {
+    color: blue;
+    font-size: 36px;
+    
+}
+
+.magot-core.tomo-core {
+    font-size: 36px;
+}
+
+#beeg {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
