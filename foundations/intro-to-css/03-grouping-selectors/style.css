@@ -1,0 +1,13 @@
+.shadowbringers {
+    background-color: black;
+    color: white;
+}
+
+.endwalker {
+    background-color: yellow;
+}
+ 
+.endwalker, .shadowbringers {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
